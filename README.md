@@ -1,6 +1,6 @@
-# ¡Hola, soy Xolrak! 👋
+# ¡Hola, soy Carlos! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado con experiencia en varios lenguajes de programación y un fuerte interés en la creación de herramientas útiles y soluciones innovadoras. 🚀
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante que está cursando actualmente Desarrollo de Aplicaciones Web 🚀
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -16,21 +16,9 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 🌱 Lo Que Estoy Aprendiendo
-
-Actualmente, estoy estudiando Desarrollo de Aplicaciones Web:
-
-- **Machine Learning con Python** - Explorando bibliotecas como TensorFlow y Scikit-Learn.
-- **Desarrollo Web con Java** - Creación de aplicaciones web utilizando Spring Boot y Hibernate.
-- **Automatización Avanzada con PowerShell y Bash** - Implementación de scripts más robustos y eficientes para la administración de sistemas.
-
 ## 🏆 Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Xolrak](https://github-readme-stats.vercel.app/api?username=Xolrak&show_icons=true&theme=radical)
-
-## 🤝 Contribuciones
-
-Siempre estoy abierto a colaboraciones y nuevos proyectos. Si tienes alguna idea o simplemente quieres charlar, no dudes en contactarme.
 
 ---
 
