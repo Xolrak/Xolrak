@@ -19,5 +19,3 @@
 ## 🏆 Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Xolrak](https://github-readme-stats.vercel.app/api?username=Xolrak&show_icons=true&theme=radical)
-
----
