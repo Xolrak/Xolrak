@@ -21,5 +21,3 @@
 ![Estadísticas de GitHub de Xolrak](https://github-readme-stats.vercel.app/api?username=Xolrak&show_icons=true&theme=radical)
 
 ---
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos. 😊
