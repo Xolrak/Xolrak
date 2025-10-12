@@ -1,6 +1,6 @@
 # ¡Hola, soy Carlos! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante que está cursando actualmente Desarrollo de Aplicaciones Web 🚀
+¡Bienvenido a mi perfil! Actualmente estoy haciendo el segundo año de Desarrollo de Aplicaciones Web 🚀
 
 ## 🔧 Tecnologías y Herramientas
 
