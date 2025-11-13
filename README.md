@@ -6,9 +6,9 @@
 
 <h1 align="center">👋 ¡Hola, soy Carlos!</h1>
 
-<h4 align="center">
+<h3 align="center">
   Actualmente estoy en el <strong>segundo año de desarrollo de aplicaciones web</strong>.
-</h4>
+</h3>
 
 ---
 
