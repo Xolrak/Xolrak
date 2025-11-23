@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Xolrak/Xolrak/blob/main/github%20banner.jpg?raw=true" 
-       alt="Banner" 
-       style="width:100%; max-width:980px; border-radius:12px; box-shadow:0 0 15px rgba(0,0,0,0.3);">
-</p>
-
 <h1 align="center">👋 ¡Hola, soy Carlos!</h1>
 
 <h3 align="center">
