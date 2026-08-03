@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Typing SVG" />
+  <img src="assets/banner.svg" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
