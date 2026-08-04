@@ -36,7 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/Xolrak/Deal-Game-Alert">
-    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Deal-Game-Alert&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=EBF722&show_owner=false&hide_border=false&border_radius=20&cache_seconds=0" width="50%" />
+    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Deal-Game-Alert&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=EBF722&show_owner=false&hide_border=false&border_radius=20&cache_seconds=0" width="49%" valign="top"/>
+  </a>
+  <a href="https://github.com/Xolrak/portfolio">
+    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=portfolio&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=EBF722&show_owner=false&hide_border=false&border_radius=20&cache_seconds=0" width="49%" valign="top"/>
   </a>
 </p>
 
@@ -46,15 +49,15 @@
 
 <p align="center">
   <a href="https://github.com/Xolrak/Roig-Arena">
-    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Roig-Arena&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="49%" />
+    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Roig-Arena&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="49%" valign="top"/>
   </a>
   <a href="https://github.com/Xolrak/Smart-Nav-Scroll">
-    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Smart-Nav-Scroll&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="49%" />
+    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=Smart-Nav-Scroll&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="49%" valign="top"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Xolrak/feria_vlc">
-    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=feria_vlc&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="50%" />
+    <img src="https://github-readme-stats-two-nu.vercel.app/api/pin/?username=Xolrak&repo=feria_vlc&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&show_owner=false&hide_border=false&border_radius=20" width="49%" valign="top"/>
   </a>
 </p>
 
@@ -63,12 +66,12 @@
 <h3 align="center">📡 // ESTADISTICAS_DE_GITHUB</h3>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Xolrak&show_icons=true&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&hide_border=false&border_radius=20" width="49%" />
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Xolrak&layout=compact&theme=synthwave&title_color=00F0FF&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&hide_border=false&border_radius=20" width="49%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Xolrak&show_icons=true&theme=synthwave&title_color=00F0FF&icon_color=FF0055&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&hide_border=false&border_radius=20" width="49%" valign="top"/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Xolrak&layout=compact&theme=synthwave&title_color=00F0FF&text_color=ffffff&bg_color=0d0d15&border_color=00F0FF&hide_border=false&border_radius=20" width="49%" valign="top"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xolrak&theme=synthwave&background=0D0D15&border=00F0FF&stroke=00F0FF&ring=FF0055&fire=FF0055&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF0055&sideLabels=ffffff&dates=ffffff&border_radius=20" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xolrak&theme=synthwave&background=0D0D15&border=00F0FF&stroke=00F0FF&ring=FF0055&fire=FF0055&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF0055&sideLabels=ffffff&dates=ffffff&border_radius=20" width="60%" valign="top"/>
 </p>
 
 ---
